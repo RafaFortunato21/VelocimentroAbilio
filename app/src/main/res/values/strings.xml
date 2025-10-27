@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Velocímetro AbilioShow</string>
+    <string name="default_speed">0.0</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="waiting_for_gps">Aguardando sinal GPS...</string>
+    <string name="permission_denied">Permissão de localização negada.</string>
+</resources>
